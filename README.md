@@ -39,9 +39,6 @@ I was provided by laptop graciously by my community college to keep. I'm gratefu
 10. Go forward and enjoy your new expanded storage!
 
 <p align="center">
-  <img src="IMG_4220.jpg" alt="Acer Extensa Screenshot" width="400">
-</p>
-
-<p align="center">
-  <img src="IMG_4218.jpg" alt="Acer Extensa Screenshot" width="400">
+  <img src="IMG_4218.jpg" alt="Acer Extensa Screenshot 2" width="400">
+  <img src="IMG_4220.jpg" alt="Acer Extensa Screenshot 1" width="400">
 </p>
