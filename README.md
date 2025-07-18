@@ -1,7 +1,7 @@
 # Acer Extensa 15 Model N23C3 SSD Replacement Guide
 
 <p align="center">
-  <img src="images/IMG_4216.jpg" alt="Acer Extensa Screenshot" width="800">
+  <img src="IMG_4216.jpg" alt="Acer Extensa Screenshot" width="800">
 </p>
 
 ## Overview
