@@ -37,3 +37,11 @@ I was provided by laptop graciously by my community college to keep. I'm gratefu
 8. Place backplate back on laptop.
 9. Screw everything back in.
 10. Go forward and enjoy your new expanded storage!
+
+<p align="center">
+  <img src="IMG_4220.jpg" alt="Acer Extensa Screenshot" width="400">
+</p>
+
+<p align="center">
+  <img src="IMG_4218.jpg" alt="Acer Extensa Screenshot" width="400">
+</p>
